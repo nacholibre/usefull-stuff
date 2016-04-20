@@ -1,5 +1,5 @@
 #HTML
-##Javscript Libraries
+##Javascript Libraries
 
 ###Validation
 * https://github.com/formvalidation/formvalidation - The best @jquery plugin to validate form fields. Designed to use with Bootstrap + Zurb Foundation + Pure + SemanticUI + UIKit + Your own frameworks.
