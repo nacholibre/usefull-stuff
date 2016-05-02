@@ -13,3 +13,6 @@
 
 ###Carousels
 * https://github.com/metafizzy/flickity - Touch, responsive, flickable carousels
+
+#Symfony2
+* https://symfony.com/doc/current/bundles/IvoryCKEditorBundle/index.html - rich text editor for symfony2
