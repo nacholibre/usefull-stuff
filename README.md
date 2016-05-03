@@ -16,3 +16,4 @@
 
 #Symfony2
 * https://symfony.com/doc/current/bundles/IvoryCKEditorBundle/index.html - rich text editor for symfony2
+* https://github.com/helios-ag/FMElfinderBundle - File uploader integrated with IvoryCKEditorBundle
