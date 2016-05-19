@@ -6,6 +6,7 @@
 
 ###Element Boosters
 * https://github.com/silviomoreto/bootstrap-select - A custom select for @twitter bootstrap using button dropdown
+* https://github.com/fronteed/iCheck/ - styled checkbox
 
 ###Mobile menu sliders
 * http://mmenu.frebsite.nl/ - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
