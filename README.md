@@ -7,14 +7,18 @@
 ###Element Boosters
 * https://github.com/silviomoreto/bootstrap-select - A custom select for @twitter bootstrap using button dropdown
 * https://github.com/fronteed/iCheck/ - styled checkbox
+* http://dimsemenov.com/plugins/magnific-popup/
 
 ###Mobile menu sliders
 * http://mmenu.frebsite.nl/ - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
 * https://github.com/mango/slideout - A touch slideout navigation menu for your mobile web apps.
 
 ###Carousels
+* http://owlgraphic.com/owlcarousel/#demo
 * https://github.com/metafizzy/flickity - Touch, responsive, flickable carousels
 
 #Symfony2
 * https://symfony.com/doc/current/bundles/IvoryCKEditorBundle/index.html - rich text editor for symfony2
 * https://github.com/helios-ag/FMElfinderBundle - File uploader integrated with IvoryCKEditorBundle
+
+
